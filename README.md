@@ -6,8 +6,14 @@ SerialPort-GSM - A library for the communication with GSM modems like sending an
 
 ## Install
 
-```bash
-npm i serialport-gsm
+**If you want to use `serialport`, install**
+
+```
+npm install serialport-gsm serialport
+```
+
+```
+yarn add serialport-gsm serialport
 ```
 
 ## Usage
